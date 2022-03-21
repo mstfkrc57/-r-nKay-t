@@ -1,0 +1,10 @@
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\bin\Debug\20211216_OOP_Urun_Girisi.exe.config
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\bin\Debug\20211216_OOP_Urun_Girisi.exe
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\bin\Debug\20211216_OOP_Urun_Girisi.pdb
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\20211216_OOP_Urun_Girisi.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\_20211216_OOP_Urun_Girisi.Form1.resources
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\_20211216_OOP_Urun_Girisi.Properties.Resources.resources
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\20211216_OOP_Urun_Girisi.csproj.GenerateResource.cache
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\20211216_OOP_Urun_Girisi.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\20211216_OOP_Urun_Girisi.exe
+C:\Users\M\source\repos\20211216_OOP_Urun_Girisi\20211216_OOP_Urun_Girisi\obj\Debug\20211216_OOP_Urun_Girisi.pdb
